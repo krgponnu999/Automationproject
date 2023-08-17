@@ -5,8 +5,3 @@ codeing is fun 1
 codeing is fun 2
 codeing is fun 3b
 codeing is fun 
-<<<<<<< HEAD
-codeing is fun 26
-=======
-codeing is fun 25
->>>>>>> b369f7fb80e7caab49382a0998202114ddd98b20
